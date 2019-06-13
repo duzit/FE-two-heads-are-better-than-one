@@ -7,3 +7,6 @@
 
 ### css3动画
 * https://www.yuque.com/office/yuque/0/2019/pdf/168578/1554175613589-1cafa4f1-bfa6-4c48-a2e0-f58d56b549bf.pdf
+
+### svg格式动图
+* https://icons8.com/preloaders
