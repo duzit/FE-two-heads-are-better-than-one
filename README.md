@@ -10,3 +10,7 @@
 
 ### svg格式动图
 * https://icons8.com/preloaders
+
+### web ppt 组件
+* https://nodeppt.js.org
+* https://github.com/ksky521/nodeppt
