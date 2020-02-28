@@ -24,3 +24,5 @@
 ### 拖拽 改变顺序
 * https://github.com/SortableJS/Vue.Draggable
 
+### Vue 大屏数据展示组件库
+* http://datav.jiaminghi.com/
