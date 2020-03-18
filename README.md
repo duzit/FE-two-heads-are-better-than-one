@@ -26,3 +26,7 @@
 
 ### Vue 大屏数据展示组件库
 * http://datav.jiaminghi.com/
+
+### JavaScript基础知识
+* http://bonsaiden.github.io/JavaScript-Garden/zh/
+
