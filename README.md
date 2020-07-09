@@ -35,3 +35,6 @@
 
 ### vue 渲染 markdown
 * https://blog.csdn.net/qq_34691227/article/details/105845460?utm_medium=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-2.nonecase&depth_1-utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-2.nonecase
+
+### vue-i18n 切换中英文
+* https://www.cnblogs.com/rogerwu/p/7744476.html
