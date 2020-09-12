@@ -41,3 +41,7 @@
 
 ### webpack 模块打包
 * https://github.com/BothEyes1993/vue-multi-module
+
+### npm scripts
+* http://www.ruanyifeng.com/blog/2016/10/npm_scripts.html
+
