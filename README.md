@@ -38,3 +38,6 @@
 
 ### vue-i18n 切换中英文
 * https://www.cnblogs.com/rogerwu/p/7744476.html
+
+### webpack 模块打包
+* https://github.com/BothEyes1993/vue-multi-module
