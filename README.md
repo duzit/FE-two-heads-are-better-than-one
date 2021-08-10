@@ -45,5 +45,6 @@
 ### npm scripts
 * http://www.ruanyifeng.com/blog/2016/10/npm_scripts.html
 
-### update
+### [7天学会node.js](http://nqdeng.github.io/7-days-nodejs/)
+
 
