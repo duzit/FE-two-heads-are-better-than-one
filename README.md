@@ -47,4 +47,5 @@
 
 ### [7天学会node.js](http://nqdeng.github.io/7-days-nodejs/)
 
+### [正则整理](https://mp.weixin.qq.com/s/Ufzyf-ouuuS5N6XCOx1k3g)
 
